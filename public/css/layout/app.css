@@ -1,0 +1,33 @@
+a, a:hover, a:active, a:visited { color: white; 
+cursor:pointer;}
+.navbar{
+	background: #000;
+	color:white;
+	/*cursor:pointer;*/
+}
+
+.profile-sidebar{
+	background:rgba(255, 71, 0, 0.92);
+	text-align: center;
+}
+
+.profile-pic{
+	margin: 0px auto;
+}
+
+#app-layout{
+	color:white;
+}
+
+#logo{
+	/*width: 15%;*/
+    /*height: 200px;*/
+    /*background: red;*/
+    float: left;
+}
+
+#search_box{
+	/*margin-left: 15%;*/
+    /*height: 200px;*/
+    /*background: black;*/
+}
